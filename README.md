@@ -6,8 +6,8 @@ This module is a Java library that allows users to generate schedules using the 
 * A Trello account and API key
 
 # Usage
-*To use the Schedule Generator module, you will need to obtain a Trello API key and token.
-*You can find instructions for doing so in the Trello API documentation https://developer.atlassian.com/cloud/trello/rest/api-group-actions/.
+* To use the Schedule Generator module, you will need to obtain a Trello API key and token
+* You can find instructions for doing so in the Trello API documentation https://developer.atlassian.com/cloud/trello/rest/api-group-actions/
 
 # License
 This module is licensed under the MIT License
